@@ -1,5 +1,10 @@
 [Deploying Full Stack App onto Ubuntu/AWS: Postgres, Express, React, Node + SSL Let's Encrypt](https://www.youtube.com/embed/NjYsXuSBZ5U)
 
+<video width="660" height="371" controls>
+  <source src="https://www.youtube.com/embed/NjYsXuSBZ5U" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 # Deploying PERN stack on Ubuntu 20.04
 
