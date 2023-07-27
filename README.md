@@ -249,7 +249,7 @@ ubuntu@ip-172-31-20-1:~/apps/yelp-app/client/build$
 ```
 
 ## 7. Install and Configure NGINX
-
+### Ngnix video tutorial - [see video](https://www.youtube.com/watch?v=7VAI73roXaY&t=946s)
 Install and enable NGINX
 ```
 sudo apt install nginx -y
