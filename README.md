@@ -4,6 +4,8 @@ VIDEO = [Deploying Full Stack App onto Ubuntu/AWS: Postgres, Express, React, Nod
 
 CI/CD - [action runners](https://www.youtube.com/watch?v=JS07npwL3Ps&t=1126s) 
 
+DOWNLOAD NODE - [NODE](https://github.com/nodesource/distributions)
+
 # Deploying PERN stack on Ubuntu 20.04
 
 > Detailed step by step procedure to deploying PERN(Postgres, Express, React, Node) stack on Ubuntu 20.04 with NGINX and SSL
